@@ -22,7 +22,7 @@ using JCZPT.Service;
 namespace JCZPT
 {
     /// <summary>
-    /// MainWindow.xaml 的交互逻辑
+    /// MainWindow.xaml 的交互逻辑 贾梦
     /// </summary>
     public partial class MainWindow : Window
     {
